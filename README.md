@@ -3,6 +3,6 @@
 - Included driving as the main mechanic along with a single-player and a local multiplayer mode allowing 2 people to play together 
 - Implemented a fully functional UI and support for gamepad along with a music and sound efects system for the game
 
-Here is the link to the final game
+Here is the link to the itch page of the final game
 
-https://drive.google.com/drive/folders/1ntzc2wXi_KiBKuxwvPgjvcm58dUzQzPX?usp=sharing
+https://ayushbaranwal.itch.io/driverclub
